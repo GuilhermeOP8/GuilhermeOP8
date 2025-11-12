@@ -26,6 +26,15 @@ Eu sou o Guilherme Patriarca, um Desenvolvedor de Sites e Bots do Discord! Atual
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="BAT" 
+    title="BAT"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://icons.iconseeker.com/png/fullsize/radium-neue-mac-icons/bat-file-2.png" 
+/>
+
 <br/>
 <br/>
 
