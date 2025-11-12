@@ -1,6 +1,6 @@
 # 🔥 Guilherme Patriarca 🔥
 
-**`Dessenvolvedor Júnior`**
+**`Desenvolvedor Júnior`**
 
 Eu sou o Guilherme Patriarca, um Desenvolvedor de Sites e Bots do Discord! Atualmente Trabalho como Desenvolvedor Oficial da GuiBotTeam! Estou a Aprender Linguagens como Phyton e HTML
 
