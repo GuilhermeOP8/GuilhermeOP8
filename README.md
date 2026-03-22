@@ -3,6 +3,7 @@
 **`Desenvolvedor Júnior`**
 
 Eu sou o Guilherme Patriarca, desenvolvo Bots do Discord e Sites! Sou Fundador e Trabalhador da GuiBotTeam que é uma pioneira no desenvolvimento de Bots e criação de servidores no Discord.
+
 ---
 
 ### 🤖 Linguagens a Ser Aprendidas
