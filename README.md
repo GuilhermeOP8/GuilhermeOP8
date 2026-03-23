@@ -26,7 +26,7 @@ Eu sou o Guilherme Patriarca, desenvolvo Bots do Discord e Sites! Sou Fundador e
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeOP8&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="[https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeOP8&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeOP8&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&)" 
   />
 
 </p>
