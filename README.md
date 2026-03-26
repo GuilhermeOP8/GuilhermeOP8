@@ -6,7 +6,7 @@ Eu sou o Guilherme Patriarca, desenvolvo Bots do Discord e Sites! Sou Fundador e
 
 ---
 
-### 🤖 Linguagens a Ser Aprendidas
+### Linguagens a ser Estudadas
 
 <img 
     align="left" 
@@ -17,8 +17,19 @@ Eu sou o Guilherme Patriarca, desenvolvo Bots do Discord e Sites! Sou Fundador e
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png" 
 />
 
+<img 
+    align="left" 
+    alt="html" 
+    title="html"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" 
+/>
+
 <br/>
 <br/>
+
+### Quero Aprender
 
 ### 📊 Estatísticas
 
